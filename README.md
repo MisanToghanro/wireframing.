@@ -1,4 +1,4 @@
-# 📐 Wireframing
+# Wireframing
 
 ## What is Wireframing?
 
